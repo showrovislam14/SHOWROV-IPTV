@@ -298,12 +298,12 @@
   },
   {
     "name": "Jamuna TV",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8",
+    "link": "https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8",
     "logo": "https://images.toffeelive.com/images/program/46/logo/240x240/mobile_logo_222968001673182917.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "origin": "",
     "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1710763677:KeyName=prod_linear:Signature=h89iOqCZpbJQT1F09EPVVWuT7TZt5sBowuO4Xk8ueK3k1Bc6105GisGZx3L9CkogBHjqxEa9WPfAGtrNYTTRCg",
+    "userAgent": "",
+    "cookie": "",
     "drmScheme": "",
     "drmLicense": ""
   },
