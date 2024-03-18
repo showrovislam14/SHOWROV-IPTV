@@ -17,10 +17,21 @@
     "origin": "https://mprod-cdn.toffeelive.com",
     "referrer": "",
     "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1710771679:KeyName=prod_live_events:Signature=eBzHZOkx7MeduYqnDoaFC2hDsig86D6TNpatatuOkiJTs1mgR4F3qDmZmIZr_O3wn-6fEM_F1BEqiij6l3WXCQ",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1710771679:KeyName=prod_live_events:Signature=eBzHZOkx7MeduYqnDoaFC2hDsig86D6TNpatatuOkiJTs1mgR4F3qDmZmIZr_O3wn-6fEM_F1BEqiij6l3WXCQ",
     "drmScheme": "",
     "drmLicense": ""
   },
+  {
+    "name": "BAN vs SL",
+    "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
+    "logo": "https://image.tsports.com/images/mobile_logo/1709312916-1280.jpg",
+    "origin": "https://live-cdn.tsports.com",
+    "referrer": "https://live-cdn.tsports.com",
+    "userAgent": "Tsports (Linux; Telegram:https://t.me/J_9X_H_9X_N) Github:https://github.com/byte-capsule AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1710796069:KeyName=tsports-ed25519-01:Signature=iG5ytPCZ98PnmSiGIoglFY45potrea6ZwhHabuWB49CwRoWlmiNyMxa3WFJXxsB8koKBrsxqgcgUVJAcfo4aAg",
+    "drmScheme": "",
+    "drmLicense": ""
+  }, 
   {
     "name": "BAN vs SL VIP",
     "link": "https://mprod-cdn.toffeelive.com/live/match-2/index.m3u8",
