@@ -232,12 +232,12 @@
   },
   {
     "name": "Ekattor TV",
-    "link": "https://bldcmprod-cdn.toffeelive.com/cdn/live/ekattor_hd/playlist.m3u8",
-    "logo": "https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png",
-    "origin": "https://bldcmprod-cdn.toffeelive.com",
+    "link": "https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8",
+    "logo": "",
+    "origin": "",
     "referrer": "",
-    "userAgent": "Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
-    "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1710763677:KeyName=prod_linear:Signature=h89iOqCZpbJQT1F09EPVVWuT7TZt5sBowuO4Xk8ueK3k1Bc6105GisGZx3L9CkogBHjqxEa9WPfAGtrNYTTRCg",
+    "userAgent": "",
+    "cookie": "",
     "drmScheme": "",
     "drmLicense": ""
   },
