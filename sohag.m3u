@@ -232,10 +232,10 @@
   },
   {
     "name": "Ekattor TV",
-    "link": "https://ythls.armelin.one/channel/UCtqvtAVmad5zywaziN6CbfA.m3u8",
+    "link": "https://tvs1.aynaott.com/ekattorbdtv/index.m3u8?hdnts=st=1710772343~exp=1710815543~acl=/ekattorbdtv/*~data=103.23.206.238-WEB~hmac=7162db5659b5fec8551dab82cb41647058c0b4d375f2af7b8d7aebc399258785",
     "logo": "https://images.toffeelive.com/images/program/53/logo/240x240/mobile_logo_107276001655890949.png",
     "origin": "",
-    "referrer": "",
+    "referrer": "https://watch.aynaott.com",
     "userAgent": "",
     "cookie": "",
     "drmScheme": "",
