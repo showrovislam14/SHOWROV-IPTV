@@ -20,5 +20,16 @@
     "cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1711310713:KeyName=prod_live_events:Signature=xCZoG7KeYIl5I9cIWc9RxJmLQEIIzn_v4mKO7rmgm6pXJrJVzpHNFdVdnzAgOSmyAfQqSG650vhRkmdc1b4ICw",
     "drmScheme": "",
     "drmLicense": ""
-  }
+  },
+  {
+    "name": "Somoy TV",
+    "link": "https://live.bongobd.com/hls/Fok19MsLHciBQtMez09u1g/1711373312/live-somoy-news-tv_low/index.m3u8",
+    "logo": "https://images.toffeelive.com/images/program/65/logo/240x240/mobile_logo_703286001655891016.png",
+    "origin": "https://bongobd.com",
+    "referrer": "https://bongobd.com",
+    "userAgent": "Mozilla/5.0 (Linux; Android 13; IV2201 Build/TP1A.220905.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.119 Mobile Safari/537.36",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
 ]
